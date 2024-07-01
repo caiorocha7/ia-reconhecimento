@@ -18,7 +18,7 @@ Antes de iniciar, certifique-se de ter o seguinte instalado:
 
 1. Clone o repositório para a sua máquina local usando:
    ```bash
-   git clone https://github.com/seudominio/ia-reconhecimento-facial.git
+   git clone [https://github.com/seudominio/ia-reconhecimento-facial.git](https://github.com/caiorocha7/ia-reconhecimento)
 2. Navegue até o diretório do projeto:
    ```bash
    cd ia-reconhecimento-facial
